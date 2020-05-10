@@ -1,0 +1,9 @@
+Rate of profit 4/22/20 2:42 PM
+========================
+
+> Indeed,   a redistribution of the national income at the expense of profits (which   would be the outcome of a sudden large rise in wages) would result in   a collapse of investment, i.e. of sales of means of production. If this   succeeded a period of actual decline in the rate of profit, then capital   accumulation would contract very violently indeed and the crisis would   remain unavoidable. Inasmuch as they forget this basic correlation of   the trade cycle with medium-term fluctuations of the rate of profit, all   economists (whether Marxist or non-Marxist) who explain the crisis   exclusively or mainly in terms of the relation between the purchasing   power of consumers and the national income are truly guilty of' under-  consumptionism ', that is to say, of a one-sided and therefore erroneous   theory of over-production and the trade cycle.100 
+((Penguin Classics) Karl Marx, David Fernbach, Ernest Mandel - Capital _ A Critique of Political Economy. 2-Penguin (1993), p.70)
+
+Consumer demand alone cannot necessarily explain capital dynamics. An increase in absolute profit over an absolutely greater mass of commodities may appear to individual capitalists as a decline in their rate of profit (actually will be), and therefore they may choose not to invest. It also increases the minimum amount of capital required to start a business, so impacts capitalist activity that way too.
+
+**Although capitalism may cheapen commodities over time, capitalists absolutely do not want this - this is one of the key contradictions**

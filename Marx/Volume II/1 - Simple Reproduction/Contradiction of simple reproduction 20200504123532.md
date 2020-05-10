@@ -1,0 +1,3 @@
+# Contradiction of simple reproduction
+
+Without delaying any longer on this point, we simply note that it was presupposed in our presentation of simple reproduction that the entire surplus-value in departments I and II was spent as revenue. In point of fact, however, one portion of surplus-value is spent as revenue, and another portion transformed into capital. Only with this precondition does real accumulation take place. But the idea that accumulation is achieved at the expense of consumption - considered in this general way - is an illusion that contradicts the essence of capitalist production, in as much as it assumes that the purpose and driving motive of this is consumption, and not the grabbing of surplus-value and its capitaliza- tion, i.e. accumulation.

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CreationDate</key>
+	<date>2020-03-25T09:40:04Z</date>
+	<key>Markdown</key>
+	<string>OK</string>
+	<key>PrivateProperties</key>
+	<dict>
+		<key>DropboxSyncDates</key>
+		<array>
+			<date>2020-04-04T00:01:23Z</date>
+			<string>015a26bbbfc776d00000001b4ef91a0</string>
+		</array>
+		<key>DropboxSyncDates4plist</key>
+		<array>
+			<date>2020-03-26T22:50:03Z</date>
+			<string>015a1c9ce2ab09300000001b4ef91a0</string>
+		</array>
+	</dict>
+</dict>
+</plist>

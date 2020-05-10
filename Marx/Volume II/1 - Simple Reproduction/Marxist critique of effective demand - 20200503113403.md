@@ -1,0 +1,13 @@
+# Marx's critique of 'effective demand'/'effective consumption'
+
+> It is a pure tautology to say that crises are provoked by a lack of   effective demand or effective consumption. The capitalist system does   not recognize any forms of consumer other than those who can pay, if   we exclude the consumption of paupers and swindlers. The fact that   commodities are unsaleable means no more than that no effective buyers   have been found for them, i.e. no consumers (no matter whether the   commodities are ultimately sold to meet the needs of productive or   individual consumption). If the attempt is made to give this tautology   the semblance of greater profundity, by the statement that the working   class receives too small a portion of its own product, and that the evil   would be remedied if it received a bigger share, i.e. if its wages rose, we   need only note that crises are always preparecl by a period in which wages generally rise, and the working class actually does receive a   greater share in the part of the annual product destined for consump-  tion. From the standpoint of these advocates of sound and 'simple' ( !)   common sense, such periods should rather avert the crisis. It thus ap-  pears that capitalist production involves certain conditions independent   of people's good or bad intentions, which permit the relative prosperity   of the working class only temporarily, and moreover always as a   harbinger of crisis.
+
+- KII 486-7
+
+What Marx is saying here is that ultimately it is irrelevant for provoking crises whether workers receive a lower v, and therefore transform that as required by circulation.
+
+The money paid to workers never really leaves the posession of the capitalist in a meaningful way - the absolute level does not matter in the sense of generating 'effective demand', what matters is only that the wages that are paid are transformed back into constant capital, variable capital in another department, etc, as required for circulation to continue.
+
+What matters in this sense, however, is the rate of profit. An increase in wages reduces the rate of profit, which provokes capitalists to react by reducing accumulation, thereby potentially triggering a crisis.
+
+It is in this way that what Mandel describes (intro to KIII) as reformist arguments that an increase in wages will be good for capitalism, actually can end up both triggering a crisis.

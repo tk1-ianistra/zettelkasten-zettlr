@@ -1,0 +1,1 @@
+The purpose of all economic activity is consumption, but we have so fetishised money we have let money markets direct our production and consumption activities, and they are markets that are fundamentally based on expectations of future consumption. This produced a bizarre endless loop of expectations.

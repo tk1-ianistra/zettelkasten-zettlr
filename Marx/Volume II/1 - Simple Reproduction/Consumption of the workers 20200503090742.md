@@ -1,0 +1,8 @@
+# Consumption of workers
+
+> But the section of the working class that they employ   is not the buyer of the means of production they have themselves pro-  duced. The variable capital advanced in money for the payment of   labour-power thus does not directly return to the capitalists of depart-  ment I. It is transferred by the purchases of the workers into the hands   of the capitalist producers of the commodities needed by and generally   accessible to the working-class milieu, i.e. into the hands of the capitalists of department II, and it is only by this detour, by being first em-  ployed by these for the purchase of means of production, that it returns   to the hands of the department I capitalists.
+- KII 478
+
+
+> During all these changes, capitalist I constantly keeps in hand his   variable capital, (1) originally as money capital; (2) then as an element   of his productive capital; (3) later as a value component of his com-  modity capital, i.e. in commodity value; (4) finally in money again, and   once more standing face-to-face with the labour-power into which it is   convertible. During the labour process, the capitalist has the variable   capital in his hands as self-acting, value-creating labour-power, but not   as value of a given magnitude; however, since he pays the worker only   after his power has already operated for a definite period of time,   whether longer or shorter, he already has the replacement value that   labour-power creates for itself in his hands before he pays, as well as the   surplus-value.
+- KII 

@@ -1,0 +1,4 @@
+> The assumption was thereby made that the circulating part, together with the portion of value of the fixed capital surrendered to it, turns over within the year with such a frequency that the total sum of commodities supplied is the same as the value of the whole of the capital that goes into the annual production.) But where, as with the construction of machinery, it is only ancillaries that are involved, and not raw material, the labour element = v must again appear as the larger component of the commodity capital. For the rate of profit, the surplus-value is calculated on the total capital, independently of whether the fixed components surrender a great deal of value to the product in a given period or only a little. But for the value of any commodity capital periodically produced, the fixed part of the constant capital has only to be taken into account to the extent that it actually gives up value to the product by its average wear and tear.
+- KII 597
+
+

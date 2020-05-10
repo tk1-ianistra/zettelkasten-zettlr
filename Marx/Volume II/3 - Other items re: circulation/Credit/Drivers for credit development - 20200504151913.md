@@ -1,0 +1,6 @@
+# Drivers for development of credit system
+
+> this £70 in money figures completely or in part as additional virtual   money capital in . the hands of department II. This holds for each   transaction between the two departments, until the mutual replacement   of commodities on both sides has effected the reflux of the money to   its starting-point. In the normal course of events, however, the money   figures only temporarily here in this role. In the credit system, where all   additional money temporarily set free can immediately function actively   as additional money capital, this money capital that is only released   temporarily may get stuck, and be used for new enterprises in depart-  ment I, for example, whereas it ought to be used to set in motion surplus   products still held down in other enterprises. It should also be noted   that the annexation of 70 1. to the constant capital of department II   also requires an expansion of 14 in department II's variable capital.
+- KII 594
+
+_Ability to meet multiple objectives at once - in a fractional reserve system capital has to choose between these two objectives._
